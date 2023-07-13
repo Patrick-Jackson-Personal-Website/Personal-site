@@ -19,3 +19,11 @@ background-color:rgba(188, 135, 23, 0.929) ;
 header{
     border-bottom-style:solid; border-color: rgb(136, 61, 61); border-width: medium;
 }
+.me{
+    display: block;
+    margin-left:750px;
+    margin-right: auto;
+    width: 250px; height: 190px;
+    object-fit:cover;
+    margin-top: 20px;
+}
