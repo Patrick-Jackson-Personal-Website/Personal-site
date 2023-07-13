@@ -16,3 +16,6 @@ background-color:rgba(188, 135, 23, 0.929) ;
 .s2{
     padding: 60px;
 }
+header{
+    border-bottom-style:solid; border-color: rgb(136, 61, 61); border-width: medium;
+}
