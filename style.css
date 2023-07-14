@@ -1,6 +1,13 @@
 body{
-background-color:rgba(188, 135, 23, 0.929) ;
-}
+    background-color:rgba(188, 135, 23, 0.929) ;
+    }
+    .tabs{
+        text-align: center;
+    }
+    header{
+        border-bottom-style:solid; border-color: rgb(147, 65, 65); border-width: medium;
+    }
+
 .tabs{
     text-align: center;color: rgb(171, 174, 176);
 }
@@ -16,3 +23,4 @@ background-color:rgba(188, 135, 23, 0.929) ;
 .s2{
     padding: 60px;
 }
+
