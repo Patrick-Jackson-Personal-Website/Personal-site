@@ -7,3 +7,20 @@ body{
     header{
         border-bottom-style:solid; border-color: rgb(147, 65, 65); border-width: medium;
     }
+
+.tabs{
+    text-align: center;color: rgb(171, 174, 176);
+}
+.mission{
+    text-align: left;color:rgb(156, 63, 40);
+}
+.m{
+    text-align: left;color:rgba(255, 245, 241, 0.849);font-size:large;
+}
+.s1{
+    padding: 60px;
+}
+.s2{
+    padding: 60px;
+}
+
